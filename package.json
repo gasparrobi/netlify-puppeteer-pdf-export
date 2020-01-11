@@ -14,7 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "chrome-aws-lambda": "^2.0.0",
-    "puppeteer-core": "^2.0.0"
+    "puppeteer-core": "^2.0.0",
+    "axios": "^0.19.1"
   },
   "devDependencies": {
     "puppeteer": "^2.0.0"
