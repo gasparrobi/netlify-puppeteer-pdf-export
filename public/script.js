@@ -7,7 +7,7 @@ document.querySelector('button[type="submit"]').addEventListener("click", e => {
     // body: JSON.stringify({ pageToScreenshot: pageToScreenshot })
   };
 
-  fetch("/.netlify/functions/index", options)
+  fetch("/.netlify/functions", options)
     .then(res => console.log(res))
     .catch(err => {
       console.log(err);
