@@ -1,4 +1,4 @@
-const axios = require("axios");
+import axios from "axios";
 
 document.querySelector('button[type="submit"]').addEventListener("click", e => {
   e.preventDefault();
