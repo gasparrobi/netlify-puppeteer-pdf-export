@@ -1,0 +1,22 @@
+{
+  "name": "netlify-puppeteer-pdf-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasparrobi/netlify-puppeteer-pdf-export.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.0.0",
+    "puppeteer-core": "^2.0.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
