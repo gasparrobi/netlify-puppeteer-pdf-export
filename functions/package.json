@@ -1,0 +1,14 @@
+{
+  "name": "netlify-puppeteer-pdf-export",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "chrome-aws-lambda": "^2.0.0",
+    "puppeteer-core": "^2.0.0"
+  },
+  "devDependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
